@@ -7,4 +7,4 @@ function scream(words) {
 
 scream('Yipeee');
 
-// 
+// Nothing, the return on line 3 terminates the function before it can log anything
